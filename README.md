@@ -11,6 +11,12 @@
 ## Install dependencies run this command:
 `composer update`
 
+## Run a migrations
+`php artisan migrate`
+
+## Start server
+`php artisan serve`
+
 ## Go to Directory and run the command below
 Go to your root directory and run this on your terminal
 
@@ -19,4 +25,13 @@ Go to your root directory and run this on your terminal
 and then run this command
 
 `npm install`
+
+When its done, run this:
+
+`npm run dev` or `npm run watch`
+
+
+
+
+
 
