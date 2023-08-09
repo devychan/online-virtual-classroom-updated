@@ -30,10 +30,10 @@ When its done, run this:
 
 `npm run dev` or `npm run watch`
 
-### Features
-# Auth Tokenable auth
-# Middleware Sanctum
-# SPA (Single Page Application)
+# Features
+### Auth Tokenable auth
+### Middleware Sanctum
+### SPA (Single Page Application)
 
 
 
