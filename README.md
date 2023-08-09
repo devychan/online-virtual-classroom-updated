@@ -12,7 +12,7 @@
 `composer update`
 
 ## Go to Directory and run the command below
-`cd vue`
+Go to your root directory and run this on your terminal `cd vue`
 
-`npm install`
+and then run this command `npm install`
 
