@@ -1,4 +1,4 @@
-# online-virtual-classroom
+# Online Virtual Classroom
  An online classroom where you can group teacher and students
 
 ### Requirements
