@@ -3,7 +3,9 @@
 
 ### Requirements
 `PHP 8.0.1`
+
 `Composer version 2.5.5`
+
 `Laravel 8`
 
 ## Install dependencies run this command:
