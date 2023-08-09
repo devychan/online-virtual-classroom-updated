@@ -1,5 +1,5 @@
 # online-virtual-classroom
  An online classroom where you can group teacher and students
 
-Command:
+`\n`Command:
 `composer update`
